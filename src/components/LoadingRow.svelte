@@ -2,7 +2,7 @@
   <span class="glow-checkbox" />
   <span class="glow-text">
     <span>Loading</span>
-    <span>cool</span>
+    <span>coooool</span>
     <span>state</span>
   </span>
 </div>
